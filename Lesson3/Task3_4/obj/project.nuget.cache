@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PawpDdgQdiiAzNXYRbNMtFfmTvJa2QLct9yxNWfS993KrCVlahqIMB6i6ATp5+szhU3yl7ckkQQH6gh+PyBfJw==",
+  "success": true,
+  "projectFilePath": "/Users/vaysmans/Downloads/Учёба/GB/C#/Seminar/Lesson3/Task3_4/Task3_4.csproj",
+  "expectedPackageFiles": [
+    "/Users/vaysmans/.nuget/packages/microsoft.netcore.app.ref/6.0.13/microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "/Users/vaysmans/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.13/microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "/Users/vaysmans/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.13/microsoft.netcore.app.host.osx-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

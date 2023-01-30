@@ -1,0 +1,15 @@
+/Users/vaysmans/Downloads/Учёба/GB/C#/Seminar/Lesson2/Task5/obj/Debug/net6.0/Task5.csproj.AssemblyReference.cache
+/Users/vaysmans/Downloads/Учёба/GB/C#/Seminar/Lesson2/Task5/obj/Debug/net6.0/Task5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vaysmans/Downloads/Учёба/GB/C#/Seminar/Lesson2/Task5/obj/Debug/net6.0/Task5.AssemblyInfoInputs.cache
+/Users/vaysmans/Downloads/Учёба/GB/C#/Seminar/Lesson2/Task5/obj/Debug/net6.0/Task5.AssemblyInfo.cs
+/Users/vaysmans/Downloads/Учёба/GB/C#/Seminar/Lesson2/Task5/obj/Debug/net6.0/Task5.csproj.CoreCompileInputs.cache
+/Users/vaysmans/Downloads/Учёба/GB/C#/Seminar/Lesson2/Task5/bin/Debug/net6.0/Task5
+/Users/vaysmans/Downloads/Учёба/GB/C#/Seminar/Lesson2/Task5/bin/Debug/net6.0/Task5.deps.json
+/Users/vaysmans/Downloads/Учёба/GB/C#/Seminar/Lesson2/Task5/bin/Debug/net6.0/Task5.runtimeconfig.json
+/Users/vaysmans/Downloads/Учёба/GB/C#/Seminar/Lesson2/Task5/bin/Debug/net6.0/Task5.dll
+/Users/vaysmans/Downloads/Учёба/GB/C#/Seminar/Lesson2/Task5/bin/Debug/net6.0/Task5.pdb
+/Users/vaysmans/Downloads/Учёба/GB/C#/Seminar/Lesson2/Task5/obj/Debug/net6.0/Task5.dll
+/Users/vaysmans/Downloads/Учёба/GB/C#/Seminar/Lesson2/Task5/obj/Debug/net6.0/refint/Task5.dll
+/Users/vaysmans/Downloads/Учёба/GB/C#/Seminar/Lesson2/Task5/obj/Debug/net6.0/Task5.pdb
+/Users/vaysmans/Downloads/Учёба/GB/C#/Seminar/Lesson2/Task5/obj/Debug/net6.0/Task5.genruntimeconfig.cache
+/Users/vaysmans/Downloads/Учёба/GB/C#/Seminar/Lesson2/Task5/obj/Debug/net6.0/ref/Task5.dll
