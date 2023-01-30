@@ -6,14 +6,13 @@
 
 int GetSum(int num)
 {
-  int count = 0;
 
-  for (int i = num; i > 10; i /= 10)
+  int result = 0;
+  for (int i = 1; i <= num; i++)
   {
-    count++;
+    result = result + i;
   }
-
-  return count;
+  return result;
 }
 
 int PromptNumber(string text)
@@ -27,5 +26,4 @@ int PromptNumber(string text)
 int number = PromptNumber("введите число: ");
 
 //в цикле суммируем все числа
-
-Console.WriteLine(number + "->" + GetSum(number));
+Console.WriteLine(number + " -> " + GetSum(number));
