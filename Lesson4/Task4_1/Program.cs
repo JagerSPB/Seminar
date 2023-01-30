@@ -23,11 +23,8 @@ int PromptNumber(string text)
   return number;
 }
 
-
-
 // ввод данных пользователя
 int number = PromptNumber("введите число: ");
-
 
 //в цикле суммируем все числа
 

@@ -1,0 +1,15 @@
+/Users/vaysmans/Downloads/Учёба/GB/C#/Seminar/Lesson1/Lesson1_LineN/obj/Debug/net6.0/Lesson1_LineN.csproj.AssemblyReference.cache
+/Users/vaysmans/Downloads/Учёба/GB/C#/Seminar/Lesson1/Lesson1_LineN/obj/Debug/net6.0/Lesson1_LineN.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vaysmans/Downloads/Учёба/GB/C#/Seminar/Lesson1/Lesson1_LineN/obj/Debug/net6.0/Lesson1_LineN.AssemblyInfoInputs.cache
+/Users/vaysmans/Downloads/Учёба/GB/C#/Seminar/Lesson1/Lesson1_LineN/obj/Debug/net6.0/Lesson1_LineN.AssemblyInfo.cs
+/Users/vaysmans/Downloads/Учёба/GB/C#/Seminar/Lesson1/Lesson1_LineN/obj/Debug/net6.0/Lesson1_LineN.csproj.CoreCompileInputs.cache
+/Users/vaysmans/Downloads/Учёба/GB/C#/Seminar/Lesson1/Lesson1_LineN/bin/Debug/net6.0/Lesson1_LineN
+/Users/vaysmans/Downloads/Учёба/GB/C#/Seminar/Lesson1/Lesson1_LineN/bin/Debug/net6.0/Lesson1_LineN.deps.json
+/Users/vaysmans/Downloads/Учёба/GB/C#/Seminar/Lesson1/Lesson1_LineN/bin/Debug/net6.0/Lesson1_LineN.runtimeconfig.json
+/Users/vaysmans/Downloads/Учёба/GB/C#/Seminar/Lesson1/Lesson1_LineN/bin/Debug/net6.0/Lesson1_LineN.dll
+/Users/vaysmans/Downloads/Учёба/GB/C#/Seminar/Lesson1/Lesson1_LineN/bin/Debug/net6.0/Lesson1_LineN.pdb
+/Users/vaysmans/Downloads/Учёба/GB/C#/Seminar/Lesson1/Lesson1_LineN/obj/Debug/net6.0/Lesson1_LineN.dll
+/Users/vaysmans/Downloads/Учёба/GB/C#/Seminar/Lesson1/Lesson1_LineN/obj/Debug/net6.0/refint/Lesson1_LineN.dll
+/Users/vaysmans/Downloads/Учёба/GB/C#/Seminar/Lesson1/Lesson1_LineN/obj/Debug/net6.0/Lesson1_LineN.pdb
+/Users/vaysmans/Downloads/Учёба/GB/C#/Seminar/Lesson1/Lesson1_LineN/obj/Debug/net6.0/Lesson1_LineN.genruntimeconfig.cache
+/Users/vaysmans/Downloads/Учёба/GB/C#/Seminar/Lesson1/Lesson1_LineN/obj/Debug/net6.0/ref/Lesson1_LineN.dll
