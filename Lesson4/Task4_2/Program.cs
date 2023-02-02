@@ -8,12 +8,10 @@
 int GetNubersCount(int num)
 {
   int count = 1;
-
   for (int i = num; i >= 10; i = i / 10)
   {
     count++;
   }
-
   return count;
 }
 
@@ -23,7 +21,6 @@ int PromptNumber(string text)
   int number = int.Parse(Console.ReadLine());
   return number;
 }
-
 
 // ввод данных пользователя
 int number = PromptNumber("введите число: ");
