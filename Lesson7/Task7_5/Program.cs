@@ -33,7 +33,6 @@ void PrintArray2D(int[,] array)
         }
         Console.WriteLine();
     }
-
 }
 
 int GetSumArray(int[,] array)

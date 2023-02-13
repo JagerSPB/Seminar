@@ -1,0 +1,15 @@
+/Users/vaysmans/Downloads/Учёба/GB/C#/Seminar/Lesson8/Task8_31/bin/Debug/net7.0/Task8_31
+/Users/vaysmans/Downloads/Учёба/GB/C#/Seminar/Lesson8/Task8_31/bin/Debug/net7.0/Task8_31.deps.json
+/Users/vaysmans/Downloads/Учёба/GB/C#/Seminar/Lesson8/Task8_31/bin/Debug/net7.0/Task8_31.runtimeconfig.json
+/Users/vaysmans/Downloads/Учёба/GB/C#/Seminar/Lesson8/Task8_31/bin/Debug/net7.0/Task8_31.dll
+/Users/vaysmans/Downloads/Учёба/GB/C#/Seminar/Lesson8/Task8_31/bin/Debug/net7.0/Task8_31.pdb
+/Users/vaysmans/Downloads/Учёба/GB/C#/Seminar/Lesson8/Task8_31/obj/Debug/net7.0/Task8_31.csproj.AssemblyReference.cache
+/Users/vaysmans/Downloads/Учёба/GB/C#/Seminar/Lesson8/Task8_31/obj/Debug/net7.0/Task8_31.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vaysmans/Downloads/Учёба/GB/C#/Seminar/Lesson8/Task8_31/obj/Debug/net7.0/Task8_31.AssemblyInfoInputs.cache
+/Users/vaysmans/Downloads/Учёба/GB/C#/Seminar/Lesson8/Task8_31/obj/Debug/net7.0/Task8_31.AssemblyInfo.cs
+/Users/vaysmans/Downloads/Учёба/GB/C#/Seminar/Lesson8/Task8_31/obj/Debug/net7.0/Task8_31.csproj.CoreCompileInputs.cache
+/Users/vaysmans/Downloads/Учёба/GB/C#/Seminar/Lesson8/Task8_31/obj/Debug/net7.0/Task8_31.dll
+/Users/vaysmans/Downloads/Учёба/GB/C#/Seminar/Lesson8/Task8_31/obj/Debug/net7.0/refint/Task8_31.dll
+/Users/vaysmans/Downloads/Учёба/GB/C#/Seminar/Lesson8/Task8_31/obj/Debug/net7.0/Task8_31.pdb
+/Users/vaysmans/Downloads/Учёба/GB/C#/Seminar/Lesson8/Task8_31/obj/Debug/net7.0/Task8_31.genruntimeconfig.cache
+/Users/vaysmans/Downloads/Учёба/GB/C#/Seminar/Lesson8/Task8_31/obj/Debug/net7.0/ref/Task8_31.dll
