@@ -6,8 +6,8 @@
 void Rec(int n)
 {
   if (n == 0) return;
-Rec(n-1);
-Console.Write($"{n} ");
+  Rec(n - 1);
+  Console.Write($"{n} ");
 }
 
 int GetNum(string text)
